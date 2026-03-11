@@ -1,0 +1,5 @@
+{
+  "name": "乐消除",
+  "description": "一款快节奏的数学益智游戏。通过点击数字求和来达到目标并消除方块，防止它们堆积到顶部。",
+  "requestFramePermissions": []
+}
